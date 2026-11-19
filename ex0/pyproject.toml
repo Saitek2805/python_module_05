@@ -1,0 +1,12 @@
+[project]
+name = "reagents"
+version = "0.1.0"
+description = "testing poetry"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy"
+]
+
+[tool.poetry]
+package-mode = false
